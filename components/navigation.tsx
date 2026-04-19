@@ -54,7 +54,7 @@ export function Navigation() {
         </div>
         <div className="flex flex-col gap-4 pt-8 border-t border-border">
           <a
-            href="https://github.com"
+            href="https://github.com/MarcoA36"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -65,7 +65,7 @@ export function Navigation() {
             <Mail className="w-5 h-5" />
           </a>
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/542284374461"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -82,7 +82,7 @@ export function Navigation() {
             <span className="text-lg font-semibold">Portafolio</span>
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/MarcoA36"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -93,7 +93,7 @@ export function Navigation() {
                 <Mail className="w-5 h-5" />
               </a>
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/542284374461"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
